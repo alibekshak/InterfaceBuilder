@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Can we work with your photo library ?</string>
 </dict>
 </plist>
